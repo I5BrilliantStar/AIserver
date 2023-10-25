@@ -2,9 +2,7 @@
 
 ## 🛠️ 기술 스택
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=round&logo=Python&logoColor=white" /> 
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=round&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=round&logo=Flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=round&logo=Python&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=round&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=round&logo=Flask&logoColor=white" />
 
 ## 🤹🏻 기술 스택 선정 이유
 
