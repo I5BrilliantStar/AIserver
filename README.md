@@ -25,11 +25,11 @@ Flask를 활용해서 IoT 장비로부터 카메라 이미지를 업로드하고
 
 ## 🔍 Overview
 
-### 1. QR코드 처리
-
 <center>
-    <img src="./img/pic2.png" />
+    <img src="./img/qr.gif" />
 </center>
+
+### 1. QR코드 처리
 
 ```sh
 QR코드를 처리하기 위해 pyzbar 라이브러리를 사용합니다.
@@ -46,10 +46,6 @@ QR코드가 인식되면 OpenCV를 이용해서 해당 영역 주위에 경계 �
 <br>
 
 ### 2. 이미지 업로드 및 배포
-
-<center>
-    <img src="./img/pic1.png" />
-</center>
 
 ```sh
 Flask를 사용하여 IoT 카메라 장비로부터 이미지를 업로드하는 URL을 제공합니다.
